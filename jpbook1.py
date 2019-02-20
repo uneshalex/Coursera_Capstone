@@ -3,4 +3,6 @@
  import pandas as pd
  import matplotlib as mpl
  %matplotlib inline
- import matplotlib.pyplot as pdf
+ import matplotlib.pyplot as pd
+ print "Hello CapStone Project Course!"
+
